@@ -34,3 +34,6 @@ Ordinarie språkappar misslyckas för denna målgrupp eftersom de är:
 
 ### 4. Resultatkort med Skanningsbar QR-kod för Språkcoachen
 * Skanningsbar QR-kod och sammanfattning för journalsystem.
+
+---
+**Utvecklad av:** [ravichow](https://github.com/ravichow)
